@@ -17,6 +17,8 @@
                   "stacktrace": "cpp",
                   "regex": "cpp",
                   "valarray": "cpp",
-                  "iomanip": "cpp"
+                  "iomanip": "cpp",
+                  "numbers": "cpp",
+                  "algorithm": "cpp"
                 }
 }
